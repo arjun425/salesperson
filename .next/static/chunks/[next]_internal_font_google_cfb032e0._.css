@@ -1,0 +1,30 @@
+/* [next]/internal/font/google/tDbM2oWUg0MKoZw1_LPK89D4hAA-s.p.woff2 (static in css) */
+/* embedded static asset "/_next/static/media/tDbM2oWUg0MKoZw1_LPK89D4hAA-s.p.d8e1fafa.woff2" */
+
+/* [next]/internal/font/google/arvo_7ffe6578.module.css [app-client] (css) */
+@font-face {
+  font-family: Arvo;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/tDbM2oWUg0MKoZw1_LPK89D4hAA-s.p.d8e1fafa.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Arvo Fallback;
+  src: local(Times New Roman);
+  ascent-override: 79.95%;
+  descent-override: 20.56%;
+  line-gap-override: 2.23%;
+  size-adjust: 120.19%;
+}
+
+.arvo_7ffe6578-module__dmX28a__className {
+  font-family: Arvo, Arvo Fallback;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_cfb032e0._.css.map*/

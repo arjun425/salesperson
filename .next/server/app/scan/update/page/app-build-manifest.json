@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "/scan/update/page": [
+      "static/chunks/_6603638a._.css",
+      "static/chunks/node_modules_next_dist_addb19a9._.js",
+      "static/chunks/node_modules_@firebase_firestore_dist_index_esm2017_c2fcaa2e.js",
+      "static/chunks/node_modules_@firebase_auth_dist_esm2017_e8c67994._.js",
+      "static/chunks/node_modules_@firebase_database_dist_index_esm2017_5cb37f30.js",
+      "static/chunks/node_modules_11c3fbec._.js",
+      "static/chunks/src_52c316f0._.js",
+      "static/chunks/src_app_layout_e936f940.js",
+      "static/chunks/node_modules_quagga_dist_quagga_min_cb04fa6d.js",
+      "static/chunks/src_app_scan_update_page_4823c85b.js",
+      "static/chunks/src_app_scan_update_page_a1e11809.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_275e8479._.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_1f56dc06._.js",
+      "static/chunks/node_modules_next_dist_compiled_38d265cf._.js",
+      "static/chunks/node_modules_next_dist_client_ce20a02f._.js",
+      "static/chunks/node_modules_next_dist_734f0429._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_fc096475._.js"
+    ]
+  }
+}
